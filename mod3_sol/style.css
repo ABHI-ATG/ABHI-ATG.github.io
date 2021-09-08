@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #ff3300;
+}
+body{
+	background-color: #ff9c4b;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#ff1d0d; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+	margin-bottom: 40px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #ff6600;
+}
+.navbar-brand{
+	color: #ff6600;
+font-size: 30px;	
+margin: 10px 0px 0px 10px;
+}
+#chickstory{
+	padding: 20px;
+}
