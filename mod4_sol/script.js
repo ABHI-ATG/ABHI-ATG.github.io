@@ -1,12 +1,12 @@
 var names = new Array();
-names[0] = "benten";
+names[0] = "Yaakov";
 names[1] = "John";
-names[2] = "Jenny";
-names[3] = "janm";
-names[4] = "paltu";
-names[5] = "abhi";
-names[6] = "goomy";
-names[7] = "hurra";
+names[2] = "Jen";
+names[3] = "Jason";
+names[4] = "Paul";
+names[5] = "Frank";
+names[6] = "Larry";
+names[7] = "Paula";
 names[8] = "laura";
 names[9] = "jim";
 
